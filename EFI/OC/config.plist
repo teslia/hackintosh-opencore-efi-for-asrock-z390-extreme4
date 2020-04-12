@@ -111,9 +111,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>
-				BwAAAA==
-				</data>
+				<data>BwAAAA==</data>
 				<key>model</key>
 				<string>Cannon Lake PCH cAVS</string>
 			</dict>
@@ -667,7 +665,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02901501QXLNV9AD</string>
+			<string>C02027902GULNV9A8</string>
 			<key>ROM</key>
 			<data>uj2mxuEi</data>
 			<key>SpoofVendor</key>
@@ -675,9 +673,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y206QJV3Q</string>
+			<string>C02D10N1JV3Q</string>
 			<key>SystemUUID</key>
-			<string>59F6E54D-6E9E-45F4-9B26-7A3F11CF361B</string>
+			<string>E327EB6F-DF0E-4F3D-9708-A656F55F4CF9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
