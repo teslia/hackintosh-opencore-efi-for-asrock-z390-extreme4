@@ -3,12 +3,15 @@
 Asrock Z390 Extreme4 OpenCore EFI files    
 BIOS Version: 4.30     
 
+## Clover Version (Clover版本)
+https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
+
 ## 已测试OSX版本 OSX Tested   
 ##### Catalina    
 10.15.4    
 
 ## 重要说明！ Attention!
-请使用OpenCore Configurator工具生成一个新的Mac序列号。
+请使用**OpenCore Configurator**工具生成一个新的Mac序列号。       
 Please use **OpenCore Configurator** to generate new SN.
 
 ## 已测试项目
@@ -22,10 +25,10 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] NVRAM
 
 ## 无法使用的项目 (Failed feature)
-1. HDMI
+- [ ] HDMI
 
 ## 我的配置 My hardware infomation
-- Intel Core I9 9900K
+- Intel Core i9 9900K
 - Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
 - VP2780 4K Display use DisplayPort
