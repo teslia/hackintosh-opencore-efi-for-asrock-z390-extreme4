@@ -633,7 +633,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>3</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -772,17 +772,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C07845301J9KXPGA8</string>
+			<string>C07013270J9KXPG1F</string>
 			<key>ROM</key>
-			<data>Rpg46f8k</data>
+			<data>2icz9kI8</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07XN0QHJYVX</string>
+			<string>C07CH9ZTJYVX</string>
 			<key>SystemUUID</key>
-			<string>6E175E80-27C1-4F3C-8FF8-9E2F78E9FF24</string>
+			<string>F685FCAF-AE4C-4CFB-BBC5-7FA4683F707A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
