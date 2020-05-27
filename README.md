@@ -15,7 +15,7 @@ https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 Please use **OpenCore Configurator** to generate new SN.
 
 ## 已测试项目
-- [x] CPU变频
+- [x] CPU变频*1
 - [x] 显卡硬件加速(QE/CI)（Intel UHD Graphics 630 OK）
 - [x] 板载ALC1220 音频输出  （ALC1220 Soundcard OK）
 - [x] DisplayPort 视频/音频输出 （DP OK）
@@ -24,12 +24,25 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] 睡眠和唤醒
 - [x] NVRAM
 - [x] HDMI
+- [x] 随航(Sidecar)
 
-## 我的配置 My hardware infomation
+*1: 建议使用CPUFriend中的Tools重新生成一份属于自己的配置文件。     
+*1: Use CPUFriend tools to generate a yourself profile is recommend!     
+https://github.com/acidanthera/CPUFriend/blob/master/Instructions.md     
+
+## 我的配置1 My hardware infomation 1
 - Intel Core i9 9900K
-- Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
-- VP2780 4K Display use DisplayPort
+- Lexar SSD 480G NVM.e
+- ViewSonic VP2780 4K Display use DisplayPort
+
+## 我的配置2 My hardware infomation 2
+- Intel Core i7 9700K
+- DDR4 2666 16G x2 
+- Samsung SSD 970 EVO 500GB
+- ViewSonic VX2780-4k-hd-3 4K Display use DisplayPort
+- AOC 2778x 2K 60Hz Display use HDMI
+- BCM4360 PCI-E WiFi
 
 ## BIOS Settings:	
 1. Load UEFI Defaults	
