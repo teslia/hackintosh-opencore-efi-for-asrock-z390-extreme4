@@ -6,7 +6,7 @@ BIOS Version: 4.30
 ## Clover Version (Clover版本)
 https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 
-## 已测试OSX版本 OSX Tested   
+## 已测试OSX版本 Tested OSX    
 ##### Catalina    
 10.15.4    
 
@@ -14,7 +14,7 @@ https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 请使用**OpenCore Configurator**工具生成一个新的Mac序列号。       
 Please use **OpenCore Configurator** to generate new SN.
 
-## 已测试项目
+## 已测试项目 Tested feature
 - [x] CPU变频*1
 - [x] 显卡硬件加速(QE/CI)（Intel UHD Graphics 630 OK）
 - [x] 板载ALC1220 音频输出  （ALC1220 Soundcard OK）
@@ -27,7 +27,7 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] 随航(Sidecar)
 
 *1: 建议使用CPUFriend中的Tools重新生成一份属于自己的配置文件。     
-*1: Use CPUFriend tools to generate a yourself profile is recommend!     
+*1: Use CPUFriend tools to generate a your profile is recommend!     
 https://github.com/acidanthera/CPUFriend/blob/master/Instructions.md     
 
 ## 我的配置1 My hardware infomation 1
