@@ -23,9 +23,7 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] 有线网卡（Intel ETH OK）
 - [x] 睡眠和唤醒
 - [x] NVRAM
-
-## 无法使用的项目 (Failed feature)
-- [ ] HDMI
+- [x] HDMI
 
 ## 我的配置 My hardware infomation
 - Intel Core i9 9900K
