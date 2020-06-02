@@ -24,7 +24,6 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] 有线网卡（Intel ETH OK）
 - [x] 睡眠和唤醒
 - [x] NVRAM
-- [x] HDMI
 - [x] 随航(Sidecar)
 
 *1: 建议使用CPUFriend中的Tools重新生成一份属于自己的配置文件。     
