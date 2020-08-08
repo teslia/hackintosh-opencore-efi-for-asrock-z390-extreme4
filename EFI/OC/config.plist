@@ -602,6 +602,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+			<key>SerialInit</key>
+			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -616,8 +618,6 @@
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>AuthRestart</key>
-			<false/>
-			<key>BlacklistAppleUpdate</key>
 			<false/>
 			<key>BootProtect</key>
 			<string>None</string>
@@ -776,6 +776,8 @@
 		<dict>
 			<key>EnableJumpstart</key>
 			<false/>
+			<key>GlobalConnect</key>
+			<false/>
 			<key>HideVerbose</key>
 			<false/>
 			<key>JumpstartHotPlug</key>
@@ -853,6 +855,8 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UgaPassThrough</key>
+			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -863,6 +867,8 @@
 			<key>AppleDebugLog</key>
 			<false/>
 			<key>AppleEvent</key>
+			<false/>
+			<key>AppleFramebufferInfo</key>
 			<false/>
 			<key>AppleImageConversion</key>
 			<false/>
