@@ -8,6 +8,8 @@ https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 
 ## 已测试OSX版本 Tested OSX    
 ##### Catalina  
+10.15.7  
+10.15.6  
 10.15.5    
 10.15.4    
 
