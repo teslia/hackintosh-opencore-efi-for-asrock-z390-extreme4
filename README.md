@@ -7,7 +7,11 @@ BIOS Version: 4.30
 https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 
 ## 已测试OSX版本 Tested OSX    
-##### Catalina  
+
+##### Big Sur（master branch）
+11.0.1
+
+##### Catalina （Catalina branch）
 10.15.7  
 10.15.6  
 10.15.5    
