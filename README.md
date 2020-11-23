@@ -26,6 +26,7 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] 显卡硬件加速(QE/CI)（Intel UHD Graphics 630 OK）
 - [x] 板载ALC1220 音频输出  （ALC1220 Soundcard OK）
 - [x] DisplayPort 视频/音频输出 （DP OK）
+- [x] HDMI
 - [x] USB 2.0 / USB 3.0
 - [x] 有线网卡（Intel ETH OK）
 - [x] 睡眠和唤醒
