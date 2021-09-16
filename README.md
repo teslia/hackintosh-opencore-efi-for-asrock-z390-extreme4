@@ -9,11 +9,11 @@ https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 ## 已测试OSX版本 Tested OSX    
 
 ##### Big Sur（master branch）
-11.5.x
-11.4.x
-11.3.x
-11.2.x 
-11.1.x
+11.5.x   
+11.4.x   
+11.3.x   
+11.2.x    
+11.1.x   
 11.0
 
 
