@@ -9,6 +9,8 @@ https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4
 ## 已测试OSX版本 Tested OSX    
 
 ##### Monterey (Master branch)
+12.6   
+12.5   
 12.4   
 12.3   
 12.2   
