@@ -50,9 +50,8 @@ Please use **OpenCore Configurator** to generate new SN.
 - [x] NVRAM
 - [x] 随航(Sidecar)
 
-*1: 建议使用CPUFriend中的Tools重新生成一份属于自己的配置文件。     
-*1: Use CPUFriend tools to generate a your profile is recommend!     
-https://github.com/acidanthera/CPUFriend/blob/master/Instructions.md     
+*1: 已移除 CPUFriend / CPUFriendDataProvider，改用 SSDT-PLUG（plugin-type=1）启用原生 XCPM 变频；iMac19,1 与 i9-9900K 原生匹配，无需额外的电源管理数据。  
+*1: CPUFriend / CPUFriendDataProvider were removed; native XCPM is used via SSDT-PLUG (plugin-type=1). iMac19,1 natively matches the i9-9900K, so no extra power-management data is needed.  
 
 ## 我的配置1 My hardware infomation 1
 - Intel Core i9 9900K
